@@ -3,12 +3,11 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Technology](#Technology)
+- [Technology](#technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
-- [Questions](#questions)
+
 
 ## Description:
 
@@ -26,7 +25,7 @@ Project is created with:
 
 ## Installation
 
-To run this project, install it locally using npm:
+To run this app, install it locally
 
 ```
 npm install
@@ -42,11 +41,11 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](https://www.awesomescreenshot.com/video/8271915?key=4160443a4094cf7c0af7d25991652853)
+[Click Here ](https://drive.google.com/file/d/1SDEBUe3L8qutmz9ZE9-uc8KAC1am9oXJ/view?usp=share_link)
 
 #### Insomnia Screenshot
 
-![Screenshot](./screenshot/insomnia.png)
+<img width="1728" alt="Screen Shot 2022-12-05 at 9 06 02 pm" src="https://user-images.githubusercontent.com/107826386/205610651-e7a3a868-9ca7-43b6-b201-ebc1ec297a08.png">
 
 ## Contribution
 
